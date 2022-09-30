@@ -8,6 +8,7 @@ ol{
 .one{
     color:brown;
     text-decoration:line-through;
+    font-weight:bold;
 }
 .two{
     color:red;
@@ -29,7 +30,7 @@ h2{
     font-weight:bold;
 }
 p{
-    color:brown;
+    color:darkolivegreen;
 }
 #home{
     background-color: yellow;
