@@ -1,0 +1,36 @@
+h1 {
+    color:red;
+}
+ol{
+    color: brown;
+    font-style: italic;
+}
+.one{
+    color:brown;
+    text-decoration:line-through;
+}
+.two{
+    color:red;
+    background-color:yellow;
+}
+.three{
+    color: brown;
+}
+ul{
+    color:brown;
+    letter-spacing: 8px;
+}
+h2{
+    color:red;
+}
+.test{
+    color:red;
+    background-color: yellow;
+    font-weight:bold;
+}
+p{
+    color:brown;
+}
+#home{
+    background-color: yellow;
+}
